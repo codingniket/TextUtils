@@ -99,7 +99,7 @@ const About = () => {
             data-bs-parent="#accordionExample"
           >
             <div className="accordion-body" style={mystyle}>
-              <p>Youtube: Coding With Harry </p>
+              <p>It is a simple text utility website made with react and bootstrap</p>
             </div>
           </div>
         </div>
